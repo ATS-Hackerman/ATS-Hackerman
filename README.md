@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! 🌍
 
-<!--
-**ATS-Hackerman/ATS-Hackerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adrian
+----------
+I'm a student at OsloMet (Oslo Metropolitan University) 🎓
+currently studying for a Bachelor's Degree in Software Engineering. 💾
 
-Here are some ideas to get you started:
+On the side I'm:
+- 🎸 Writing music
+- 📚 Reading philosophy
+- 🐉 Playing D&D and video games
+- 🌌 Stargazing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I know or am learning:
+- ☕ JAVA
+- 📰 HTML5 & CSS
+- 📂 SQL
+
+Dreaming of being an astronaut or a spacecraft engineer 🚀
