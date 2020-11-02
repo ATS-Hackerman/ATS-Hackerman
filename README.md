@@ -3,7 +3,7 @@
 I'm Adrian
 ----------
 I'm a student at OsloMet (Oslo Metropolitan University) 🎓
-currently studying for a Bachelor's Degree in Software Engineering. 💾
+currently studying for a Bachelor's Degree of Science in Computer Engineering. 💾
 
 On the side I'm:
 - 🎸 Writing music
