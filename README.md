@@ -12,7 +12,7 @@ On the side I'm:
 - :milky_way: Stargazing
 
 Languages I know or am learning:
-- :coffe: JAVA
+- :coffee: JAVA
 - :newspaper: HTML5 & CSS
 - :open_file_folder: SQL
 - :computer: C
