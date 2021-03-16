@@ -1,4 +1,4 @@
-### Hello world! :earth_africa:
+### Hello there! :earth_africa:
 
 I'm Adrian
 ----------
