@@ -19,3 +19,5 @@ Languages I know or am learning:
 - :snake: Python
 
 Dreaming of being an astronaut, spacecraft engineer and musician :rocket:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ATS-Hackerman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ATS-Hackerman's Github Stats">
