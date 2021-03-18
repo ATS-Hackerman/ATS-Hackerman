@@ -24,4 +24,5 @@ currently studying for a Bachelor's Degree of Science in Computer Engineering. :
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mathworks.svg" />
 
+
 Dreaming of being an astronaut, spacecraft engineer and musician 🚀
