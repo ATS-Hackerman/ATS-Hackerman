@@ -15,7 +15,7 @@ On the side I'm:
 - 🐉 Playing D&D and video games
 - 🌌 Stargazing
 
-Languages I know or am learning:
+Languages:
 - ☕ JAVA
 - 📰 HTML5 & CSS
 - 📂 SQL
