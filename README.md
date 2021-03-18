@@ -5,19 +5,21 @@ I'm Adrian
 I'm a student at OsloMet (Oslo Metropolitan University) :mortar_board:
 currently studying for a Bachelor's Degree of Science in Computer Engineering. :floppy_disk:
 
+My GitHub stats 🔥
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 On the side I'm:
-- :guitar: Writing music
-- :books: Reading philosophy
-- :dragon: Playing D&D and video games
-- :milky_way: Stargazing
+- 🎸 Writing music
+- 📚 Reading philosophy
+- 🐉 Playing D&D and video games
+- 🌌 Stargazing
 
 Languages I know or am learning:
-- :coffee: JAVA
-- :newspaper: HTML5 & CSS
-- :open_file_folder: SQL
-- :computer: C
-- :snake: Python
+- ☕ JAVA
+- 📰 HTML5 & CSS
+- 📂 SQL
+- 💻 C
+- 🐍 Python
 
-Dreaming of being an astronaut, spacecraft engineer and musician :rocket:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ATS-Hackerman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ATS-Hackerman's Github Stats">
+Dreaming of being an astronaut, spacecraft engineer and musician 🚀
