@@ -7,7 +7,7 @@ currently studying for a Bachelor's Degree of Science in Computer Engineering. :
 
 My GitHub stats 🔥
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 On the side I'm:
 - 🎸 Writing music
