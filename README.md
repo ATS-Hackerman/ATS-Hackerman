@@ -9,12 +9,6 @@ currently studying for a Bachelor's Degree of Science in Computer Engineering. :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-**On the side**
-- 🎸 Writing music
-- 📚 Reading philosophy
-- 🐉 Playing D&D and video games
-- 🌌 Stargazing
-
 **Languages**
 
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -25,5 +19,11 @@ currently studying for a Bachelor's Degree of Science in Computer Engineering. :
 <img align="left" alt="Matlab" width="26px" src="https://img.icons8.com/fluent/48/000000/matlab.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <br></br>
+
+**On the side**
+- 🎸 Writing music
+- 📚 Reading philosophy
+- 🐉 Playing D&D and video games
+- 🌌 Stargazing
 
 Dreaming of being an astronaut, spacecraft engineer and musician 🚀
