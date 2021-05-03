@@ -3,8 +3,8 @@
 I'm Adrian
 ----------
 **Currently**
-🎓 Software engineering bachelor student at OsloMet
-💻 First line of IT service at OsloMet
+- 🎓 Software engineering bachelor student at OsloMet
+- 💻 First line of IT service at OsloMet
 
 **Languages**
 
@@ -16,15 +16,16 @@ I'm Adrian
 <img align="left" alt="Matlab" width="26px" src="https://img.icons8.com/fluent/48/000000/matlab.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <br></br>
+_________________________________________________________
 
 **My GitHub stats 🔥**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 **On the side**
-🎸 Writing music
-📚 Reading philosophy
-🐉 Playing D&D and video games
-🌌 Stargazing
+- 🎸 Writing music
+- 📚 Reading philosophy
+- 🐉 Playing D&D and video games
+- 🌌 Stargazing
 
 Dreaming of being an astronaut, spacecraft engineer and musician 🚀
