@@ -16,7 +16,8 @@ I'm Adrian
 <img align="left" alt="Matlab" width="26px" src="https://img.icons8.com/fluent/48/000000/matlab.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <br></br>
-----------
+
+_________________________________________________________________________________________
 
 **My GitHub stats 🔥**
 
