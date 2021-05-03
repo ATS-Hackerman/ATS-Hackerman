@@ -2,12 +2,9 @@
 
 I'm Adrian
 ----------
-I'm a student at OsloMet (Oslo Metropolitan University) :mortar_board:
-currently studying for a Bachelor's Degree of Science in Computer Engineering. :floppy_disk:
-
-**My GitHub stats 🔥**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
+**Currently**
+🎓 Software engineering bachelor student at OsloMet
+💻 First line of IT service at OsloMet
 
 **Languages**
 
@@ -20,10 +17,14 @@ currently studying for a Bachelor's Degree of Science in Computer Engineering. :
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <br></br>
 
+**My GitHub stats 🔥**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATS-Hackerman&theme=dark&hide_border=true&fire=a66bff&ring=a66bff&currStreakLabel=a66bff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 **On the side**
-- 🎸 Writing music
-- 📚 Reading philosophy
-- 🐉 Playing D&D and video games
-- 🌌 Stargazing
+🎸 Writing music
+📚 Reading philosophy
+🐉 Playing D&D and video games
+🌌 Stargazing
 
 Dreaming of being an astronaut, spacecraft engineer and musician 🚀
