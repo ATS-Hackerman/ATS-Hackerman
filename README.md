@@ -3,7 +3,7 @@
 I'm Adrian
 ----------
 **Currently**
-- 🎓 Software engineering bachelor student at OsloMet
+- 🎓 Taking Software Engineering Bachelor at OsloMet
 - 💻 First line of IT service at OsloMet
 
 **Languages**
