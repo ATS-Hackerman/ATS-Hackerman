@@ -30,4 +30,4 @@ I'm Adrian
 - 🐉 Playing D&D and video games
 - 🌌 Stargazing
 
-Dreaming of being an astronaut, spacecraft engineer and musician 🚀
+Dreaming of being an astronaut, spacecraft engineer and musician 🚀 
