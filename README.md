@@ -20,7 +20,7 @@ I'm Adrian
 
 **On the side**
 - 🎸 Writing music
-- 📚 Reading philosophy
+- 📚 Reading philosophy and fantasy
 - 🐉 Playing D&D and video games
 - 🌌 Stargazing
 
