@@ -3,8 +3,8 @@
 I'm Adrian
 ----------
 **Currently**
-- 🎓 Taking Software Engineering Bachelor at OsloMet
-- 💻 First line of IT service at OsloMet
+- 🎓 Taking Master's Degree in Cyber Security and Data Communications at NTNU, Norway
+- 🎼 Signing in UKEkoret Pirum at Studentersamfundet in Trondheim
 
 **Languages**
 
@@ -19,9 +19,8 @@ I'm Adrian
 <br></br>
 
 **On the side**
-- 🎸 Writing music
-- 📚 Reading philosophy and fantasy
-- 🐉 Playing D&D and video games
+- 🎸 Writing, composing and performing music
+- 📚 Reading and writing
 - 🌌 Stargazing
 
 Dreaming of being an astronaut, spacecraft engineer, musician or all three at the same time 🚀 
