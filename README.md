@@ -3,8 +3,8 @@
 I'm Adrian
 ----------
 **Currently**
-- 🎓 Taking Master's Degree in Cyber Security and Data Communications at <a alt="NTNU" src="https://www.ntnu.no/studier/mtkom">, Norway
-- 🎼 Signing in UKEkoret Pirum at Studentersamfundet in Trondheim
+- 🎓 Taking Master's Degree in Cyber Security and Data Communications at <a href="https://www.ntnu.no/studier/mtkom">NTNU</a> Norway
+- 🎼 Signing and performing with <a href="https://www.instagram.com/ukekoretpirum/">UKEkoret Pirum</a> at <a href="https://www.instagram.com/samfundet/?hl=en>Student Society in Trondheim</a>
 
 **Tools & Languages**
 
