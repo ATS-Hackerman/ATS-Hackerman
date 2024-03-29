@@ -1,12 +1,12 @@
-### Hello there! :earth_africa:
+### Hei!
 
 I'm Adrian
 ----------
 **Currently**
-- 🎓 Taking Master's Degree in Cyber Security and Data Communications at NTNU, Norway
+- 🎓 Taking Master's Degree in Cyber Security and Data Communications at <a alt="NTNU" src="https://www.ntnu.no/studier/mtkom">, Norway
 - 🎼 Signing in UKEkoret Pirum at Studentersamfundet in Trondheim
 
-**Languages**
+**Tools & Languages**
 
 <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -22,5 +22,3 @@ I'm Adrian
 - 🎸 Writing, composing and performing music
 - 📚 Reading and writing
 - 🌌 Stargazing
-
-Dreaming of being an astronaut, spacecraft engineer, musician or all three at the same time 🚀 
