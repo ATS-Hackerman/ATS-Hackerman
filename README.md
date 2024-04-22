@@ -1,10 +1,11 @@
-### Hei!
+|### Hei!
  
 I'm Adrian
 ----------
 **Currently**
 - 🎓 Taking Master's Degree in <a href="https://www.ntnu.no/studier/mtkom">Cyber Security and Data Communications</a> @ <a href="https://www.ntnu.edu">NTNU</a>, Norway
 - 🎼 Signing and performing with <a href="https://www.instagram.com/ukekoretpirum/">UKEkoret Pirum</a> @ <a href="https://www.instagram.com/samfundet/?hl=en">Student Society in Trondheim</a>
+- 👨‍💻 Learning new stuff!
 
 **Tools & Languages**
 
@@ -19,6 +20,6 @@ I'm Adrian
 <br></br>
 
 **On the side**
-- 🎸 Writing, composing and performing music
+- 🎻 Writing, composing and performing music
 - 📚 Reading and writing
-- 🌌 Stargazing
+- ☄️ Amor fati
